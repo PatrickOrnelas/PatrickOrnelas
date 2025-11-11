@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Tenho bastante interesse de aprendizado com Web Aplicações.<br>📚 Atualmente estudando Django.<br>📌 No momento estou desenvolvendo uma web aplicação para academias.</p>
+<p align="left">✨ Tenho bastante interesse de aprendizado com Web Aplicações.<br>📚 Atualmente estudando Django.</p>
 
 ###
 
