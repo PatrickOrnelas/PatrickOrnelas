@@ -14,8 +14,8 @@ Estudante de Engenharia da Computação na UNIFEV e apaixonado por transformar c
 ### 📊 Meu Desempenho no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickOrnelas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickOrnelas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PatrickOrnelas&show_icons=true&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PatrickOrnelas&layout=compact&theme=algolia" />
 </div>
 
 ---
