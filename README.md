@@ -22,7 +22,7 @@ Estudante de Engenharia da Computação na UNIFEV e apaixonado por transformar c
 
 ### 💻 Projetos Principais
 
-- **[SoloSync](https://github.com/PatrickOrnelas/SoloSync):** Web aplicação para gestão de projetos, clientes, prazos e faturamento de freelancers que atual sozinhos, desenvolvida com Django.
+- **[SoloSync](https://github.com/PatrickOrnelas/SoloSync):** Web aplicação para gestão de projetos, clientes, prazos e faturamento de freelancers que atuam sozinhos, desenvolvida com Django.
 - **[Agenda-Django](https://github.com/PatrickOrnelas/Agenda-Django):** Projeto de agenda em Django com lista, busca, paginação, detalhe e criação de contatos. Linguagem e layout em português.
 - **[Book-Dashboards](https://github.com/PatrickOrnelas/Book-Dashboards):** Dashboard de análise de dados utilizando Python.
 
@@ -30,5 +30,5 @@ Estudante de Engenharia da Computação na UNIFEV e apaixonado por transformar c
 
 ### 📫 Vamos nos conectar?
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_AQUI)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrick-ornelas-448aa3345/)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ornelaskkj/)
