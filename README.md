@@ -1,56 +1,34 @@
-<h1 align="left">Olá 👋 Como vai?</h1>
+# Olá, eu sou o Patrick Ornelas 👋
 
-###
+Estudante de Engenharia da Computação na UNIFEV e apaixonado por transformar café em código, focado especialmente no ecossistema Python/Django.
 
-<p align="left">Meu nome é Patrick e eu sou um estudante de Engenharia da Computação na Unifev - Centro Universitário de Votuporanga</p>
+### 🛠 Tecnologias e Ferramentas
 
-###
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<h2 align="left">Sobre mim</h2>
+---
 
-###
+### 📊 Meu Desempenho no GitHub
 
-<p align="left">✨ Tenho bastante interesse de aprendizado com Web Aplicações.<br>📚 Atualmente estudando Django.</p>
-
-###
-
-<h2 align="left">Eu trabalho com</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PatrickOrnelas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickOrnelas&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-###
+---
 
-<h2 align="left">Redes Sociais</h2>
+### 💻 Projetos Principais
 
-###
+- **[SoloSync](https://github.com/PatrickOrnelas/SoloSync):** Web aplicação para gestão de projetos, clientes, prazos e faturamento de freelancers que atual sozinhos, desenvolvida com Django.
+- **[Agenda-Django](https://github.com/PatrickOrnelas/Agenda-Django):** Projeto de agenda em Django com lista, busca, paginação, detalhe e criação de contatos. Linguagem e layout em português.
+- **[Book-Dashboards](https://github.com/PatrickOrnelas/Book-Dashboards):** Dashboard de análise de dados utilizando Python.
 
-<div align="left">
-  <a href="https://discord.gg/Yuv3ZsxB" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/ornelaskkj" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mailto:patrick_ornelas@hotmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"/>
-</a>
-<a href="mailto:patrickornelas06@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-</a>
-</div>
+---
 
-###
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_AQUI)
