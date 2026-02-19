@@ -1,21 +1,23 @@
 # Olá, eu sou o Patrick Ornelas 👋
 
-Estudante de Engenharia da Computação na UNIFEV e apaixonado por transformar café em código, focado especialmente no ecossistema Python/Django.
+Estudante de Engenharia da Computação na UNIFEV, focado especialmente no ecossistema Python/Django.
 
 ### 🛠 Tecnologias e Ferramentas
 
+![Ubuntu](https://img.shields.io/badge/ubuntu-%23E34F26.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ---
 
 ### 📊 Meu Desempenho no GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PatrickOrnelas&show_icons=true&theme=algolia" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PatrickOrnelas&layout=compact&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=PatrickOrnelas&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PatrickOrnelas&layout=compact&theme=dark" />
 </div>
 
 ---
